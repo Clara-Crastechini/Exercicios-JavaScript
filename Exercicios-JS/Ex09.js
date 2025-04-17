@@ -6,8 +6,8 @@ function Palindroma (palavra) {
     return palavra === Reversa;
   }
   
-  console.log(Palindroma('level')); // Saída: true
-  console.log(Palindroma('clara')); // Saída: false
+  console.log(Palindroma('level'));
+  console.log(Palindroma('clara')); 
 
   console.log(Palindroma('ovo'));
   console.log(Palindroma('brenda'));  
